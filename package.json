@@ -1,0 +1,20 @@
+{
+  "name": "pdfkit-v10-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pdfkit": "^0.15.0",
+    "pdfkit-table": "^0.1.99"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
