@@ -1,0 +1,2733 @@
+{
+  "fecha": "22/10/2018 al 25/12/2018",
+  "registros": [
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    },
+    {
+      "procedencia": "NO CONSOLIDADO",
+      "flujos": [
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "JENNY",
+          "campoNuevo": "JULIA",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "7-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100092",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "APELLIDO PATERNO",
+          "campoAnterior": "BARRIOS",
+          "campoNuevo": "PATERNO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        },
+        {
+          "numeroTramite": "1-2018",
+          "nombreTipoTramite": "SANEAMIENTO DE DATOS",
+          "numeroCedula": "100100",
+          "flujo": "SD POR ERROR DE TRANSCRIPCION",
+          "nombreCampoCorregir": "NOMBRES",
+          "campoAnterior": "LUIS",
+          "campoNuevo": "LUSIO",
+          "descUbiGeo": "AIQUILE-CAMPERO-COCHABAMBA-, BOLIVIA",
+          "fechaSolicitud": "12/12/2018"
+        }
+      ]
+    }
+  ],
+  "title": "REPORTE DE TRAMITES POR ESTADO",
+  "sistema": "GABINETE JURIDICO VIRTUAL",
+  "usuario": "no user"
+}
