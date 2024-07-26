@@ -1,13 +1,11 @@
 const path = require('path')
 
+// * Funcion para armar cabecera horizontal
 function addHeaderHorizontal(doc) {
-  // * Armado de cabecera
   // ? Logo segip
-  console.log('__dirname')
   const imagePath = path.join(__dirname, '../images/logo-segip.png')
   doc.image(imagePath, 50, 30, { width: 120 })
 
-  //* Cabecera reporte
   doc.fontSize(15).font('Helvetica-Bold').fill('#005983').text('REPORTE DE FLUJOS POR REGLAMENTO', 252, 75)
   // ? Cabecera derecha
   doc.fontSize(7).font('Helvetica-Bold').fill('#000000').text('Sistema:', 635, 40)

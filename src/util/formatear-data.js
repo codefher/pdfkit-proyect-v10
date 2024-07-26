@@ -1,5 +1,5 @@
 // * Formateo de la data Reporte Modificaciones
-const formatearDataModificaciones = data => {
+const obtenerDataModificaciones = data => {
   let flujosFormateados = []
 
   data.registros.forEach(registro => {
@@ -22,4 +22,4 @@ const formatearDataModificaciones = data => {
   return flujosFormateados
 }
 
-module.exports = { formatearDataModificaciones }
+module.exports = { obtenerDataModificaciones }

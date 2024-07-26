@@ -1,5 +1,5 @@
 const { Router } = require('express')
-const { buildPDF } = require('../libs/report-flujos-reglamento')
+const { buildPDF } = require('../libs/report-modificaciones')
 // const { buildPDF } = require('../libs/pdfkit')
 
 const router = Router()
