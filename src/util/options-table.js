@@ -23,9 +23,11 @@ function optionsTramites(doc) {
     prepareHeader: () => doc.font('Helvetica-Bold').fontSize(8),
     prepareRow: (row, indexColumn, indexRow, rectRow, rectCell) => {
       if (row.fechaSolicitud === 'CANTIDAD') {
-        doc.addBackground(rectRow, 'green', 0.1)
+        doc.addBackground(rectRow, '#F0F0F0', 0.1) // Color plomo muy claro
+        doc.font('Helvetica-Bold') // Texto en negrita
+      } else {
+        doc.font('Helvetica').fontSize(8)
       }
-      doc.font('Helvetica').fontSize(8)
     }
   }
 }

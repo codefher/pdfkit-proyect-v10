@@ -21,7 +21,7 @@ const headersReasignacion = [
 ]
 
 const headersTramites = [
-  { label: 'SOLICITUD', property: 'numeroTramite', align: 'center', width: 45 },
+  { label: 'SOLICITUD', property: 'numeroTramite', align: 'center', width: 50 },
   { label: 'TRAMITE', property: 'nombreTipoTramite', align: 'center', width: 130 },
   { label: 'FLUJO', property: 'flujo', align: 'center', width: 150 },
   { label: 'SOLICITANTE', property: 'solicitante', align: 'center', width: 100 },
