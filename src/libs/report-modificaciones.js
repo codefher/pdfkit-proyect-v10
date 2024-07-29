@@ -22,7 +22,7 @@ async function buildPDF(dataCallback, endCallback) {
     headers: headersModificaciones,
     datas: obtenerDataModificaciones(data)
   }
-  const options = optionsModificaciones // options table
+  const options = optionsModificaciones(doc) // options table
   await doc.table(tableLink, options)
 
   doc.moveDown(4)
