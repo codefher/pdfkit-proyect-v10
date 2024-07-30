@@ -27,8 +27,8 @@ async function buildPDF(dataCallback, endCallback) {
   addHeaderHorizontal(doc, dataCabecera)
 
   // * Add de la tabla
-  doc.fontSize(7).fill('#000000').text('', 0, 135)
-  doc.fontSize(12).font('Helvetica-Bold').text('DETALLE DE LAS REASIGNACIONES', { align: 'center' }) // title table
+  doc.fontSize(7).fill('#000000').text('', 0, 120)
+  doc.fontSize(10).font('Helvetica-Bold').text('DETALLE DE LAS REASIGNACIONES', { align: 'center' }) // title table
   doc.moveDown() // separate tables
   const tableLink = {
     headers: headersTramites,

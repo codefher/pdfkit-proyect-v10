@@ -6,7 +6,7 @@ function addHeaderHorizontal(doc, dataCabecera) {
   const imagePath = path.join(__dirname, '../images/logo-segip.png')
   doc.image(imagePath, 50, 30, { width: 120 })
 
-  doc.fontSize(15).font('Helvetica-Bold').fill('#005983').text(dataCabecera.tituloReport, 252, 75)
+  doc.fontSize(14).font('Helvetica-Bold').fill('#005983').text(dataCabecera.tituloReport, 252, 75)
   // ? Cabecera derecha
   doc.fontSize(7).font('Helvetica-Bold').fill('#000000').text('Sistema:', 635, 40)
   doc.fontSize(7).font('Helvetica').fill('#000000').text(dataCabecera.sistema, 667, 40)
@@ -30,7 +30,7 @@ function addHeaderVertical(doc, dataCabecera) {
   const imagePath = path.join(__dirname, '../images/logo-segip.png')
   doc.image(imagePath, 50, 30, { width: 100 })
 
-  doc.fontSize(10).font('Helvetica-Bold').fill('#005983').text(dataCabecera.tituloReport, { align: 'center' }, 75)
+  doc.fontSize(14).font('Helvetica-Bold').fill('#005983').text(dataCabecera.tituloReport, { align: 'center' }, 75)
   // ? Cabecera derecha
   doc.fontSize(6).font('Helvetica-Bold').fill('#000000').text('Sistema:', 465, 40)
   doc.fontSize(6).font('Helvetica').fill('#000000').text(dataCabecera.sistema, 497, 40)

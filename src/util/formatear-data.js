@@ -23,6 +23,11 @@ const obtenerDataModificaciones = data => {
 }
 
 const obtenerDataReasignaciones = data => {
+  let counter = 1
+  data.reasignaciones.forEach((item, index) => {
+    item.nro = counter++
+  })
+  console.log(data.reasignaciones)
   return data.reasignaciones
 }
 

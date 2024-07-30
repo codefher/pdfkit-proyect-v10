@@ -13,11 +13,12 @@ const headersModificaciones = [
 ]
 
 const headersReasignacion = [
+  { label: 'NRO', property: 'nro', align: 'center', width: 25 },
   { label: 'SOLICITUD', property: 'numero', align: 'center', width: 80 },
   { label: 'ROL', property: 'rol', align: 'center', width: 100 },
   { label: 'USUARIO ANTERIOR', property: 'anterior', align: 'center', width: 130 },
   { label: 'USUARIO ACTUAL', property: 'actual', align: 'center', width: 130 },
-  { label: 'FECHA', property: 'fecha', align: 'center', width: 90 }
+  { label: 'FECHA', property: 'fecha', align: 'center', width: 80 }
 ]
 
 const headersTramites = [
