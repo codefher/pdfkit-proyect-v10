@@ -3,7 +3,7 @@ const data = require('../data/report-reasignacion.json')
 const { obtenerDataReasignaciones } = require('../util/formatear-data')
 const { addHeaderVertical } = require('./header')
 const { addPageNumbersVertical } = require('./pagination')
-const { optionsModificaciones } = require('../util/options-table')
+const { optionsReasignaciones } = require('../util/options-table')
 const { headersReasignacion } = require('../util/headers-table')
 
 async function buildPDF(dataCallback, endCallback) {
@@ -13,18 +13,25 @@ async function buildPDF(dataCallback, endCallback) {
   doc.on('end', endCallback)
 
   // * Add cabecera
-  addHeaderVertical(doc)
-
-  doc.moveDown() // separate tables
+  const dataCabecera = {
+    tituloReport: 'REPORTE DE REASIGNACIONES',
+    sistema: 'Gabinete Juridico Virtual',
+    usuario: 'Josue Oscar Espejo Quenta',
+    fechaImpr: '22/10/2018 AL 25/12/2018'
+  }
+  addHeaderVertical(doc, dataCabecera)
 
   // * Add de la tabla
+  doc.fontSize(7).fill('#000000').text('', 0, 135)
+  doc.fontSize(12).font('Helvetica-Bold').text('DETALLE DE LAS REASIGNACIONES', { align: 'center' }) // title table
+  doc.moveDown() // separate tables
   const tableLink = {
     headers: headersReasignacion,
     datas: obtenerDataReasignaciones(data)
   }
   tableLink.datas.push({ numero: '', rol: '', anterior: '', actual: 'TOTAL DE REASIGNACIONES', fecha: `${tableLink.datas.length.toString()}` })
 
-  const options = optionsModificaciones(doc) // options table
+  const options = optionsReasignaciones(doc) // options table
   await doc.table(tableLink, options)
 
   addPageNumbersVertical(doc)

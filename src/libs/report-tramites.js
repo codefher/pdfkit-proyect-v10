@@ -18,11 +18,18 @@ async function buildPDF(dataCallback, endCallback) {
   doc.on('end', endCallback)
 
   // * Add cabecera
-  addHeaderHorizontal(doc)
-
-  doc.moveDown() // separate tables
+  const dataCabecera = {
+    tituloReport: 'REPORTE DE TRAMITES POR ESTADO',
+    sistema: 'Gabinete Juridico Virtual',
+    usuario: 'Josue Oscar Espejo Quenta',
+    fechaImpr: '22/10/2018 AL 25/12/2018'
+  }
+  addHeaderHorizontal(doc, dataCabecera)
 
   // * Add de la tabla
+  doc.fontSize(7).fill('#000000').text('', 0, 135)
+  doc.fontSize(12).font('Helvetica-Bold').text('DETALLE DE LAS REASIGNACIONES', { align: 'center' }) // title table
+  doc.moveDown() // separate tables
   const tableLink = {
     headers: headersTramites,
     datas: obtenerDataTramite(data)

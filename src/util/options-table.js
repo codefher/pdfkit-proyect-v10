@@ -12,6 +12,26 @@ function optionsModificaciones(doc) {
   }
 }
 
+function optionsReasignaciones(doc) {
+  return {
+    // properties
+    padding: 2,
+    columnSpacing: 2,
+    hideHeader: false,
+    minRowHeight: 0,
+    // functions
+    prepareHeader: () => doc.font('Helvetica-Bold').fontSize(8),
+    prepareRow: (row, indexColumn, indexRow, rectRow, rectCell) => {
+      if (row.actual === 'TOTAL DE REASIGNACIONES') {
+        doc.addBackground(rectRow, '#F0F0F0', 0.1) // Color plomo muy claro
+        doc.font('Helvetica-Bold') // Texto en negrita
+      } else {
+        doc.font('Helvetica').fontSize(8)
+      }
+    }
+  }
+}
+
 function optionsTramites(doc) {
   return {
     // properties
@@ -32,4 +52,4 @@ function optionsTramites(doc) {
   }
 }
 
-module.exports = { optionsModificaciones, optionsTramites }
+module.exports = { optionsModificaciones, optionsReasignaciones, optionsTramites }
