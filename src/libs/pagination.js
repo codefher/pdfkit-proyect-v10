@@ -5,9 +5,9 @@ function addPageNumbersHorizontal(doc) {
   for (let i = 0; i < pageCount; i++) {
     doc.switchToPage(i)
     doc
-      .fontSize(10)
+      .fontSize(8)
       .fillColor('#888888')
-      .text(`Página ${i + 1} de ${pageCount}`, 350, 564)
+      .text(`Página ${i + 1} de ${pageCount}`, 350, 566)
   }
 }
 
@@ -17,7 +17,7 @@ function addPageNumbersVertical(doc) {
   for (let i = 0; i < pageCount; i++) {
     doc.switchToPage(i)
     doc
-      .fontSize(10)
+      .fontSize(6)
       .fillColor('#888888')
       .text(`Página ${i + 1} de ${pageCount}`, { align: 'center' }, 745)
   }

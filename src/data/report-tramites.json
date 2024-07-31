@@ -231,6 +231,290 @@
           "fechaSolicitud": "2018-12-15T07:38:59.000Z"
         }
       ]
+    },
+    {
+      "estado": "APROBADO",
+      "flujos": [
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "MODIFICACIÓN DE DATOS",
+          "flujo": "MODIFICACION CONSOLIDADOS",
+          "solicitante": "JHULIANA ONTIVEROS ",
+          "numeroCedula": "1001649",
+          "usuarioActual": "JESUS ALBERTO GOMEZ NOGALES",
+          "fechaSolicitud": "2018-12-14T01:20:51.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "MODIFICACIÓN DE DATOS",
+          "flujo": "MODIFICACION CONSOLIDADOS",
+          "solicitante": "SERGIO PEREZ DALA",
+          "numeroCedula": "1001282",
+          "usuarioActual": "JESUS ALBERTO GOMEZ NOGALES",
+          "fechaSolicitud": "2018-12-15T07:01:17.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "MODIFICACIÓN DE DATOS",
+          "flujo": "MODIFICACION DATOS PRIMARIOS CS MA",
+          "solicitante": "LIZTI ROYAL ",
+          "numeroCedula": "1001474",
+          "usuarioActual": "VICTORIA CABEZAS POLO",
+          "fechaSolicitud": "2018-12-13T10:29:06.000Z"
+        },
+        {
+          "numeroTramite": "17-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "SERGIOMARTINEZMARTINEZ",
+          "numeroCedula": "98798",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T09:01:37.000Z"
+        },
+        {
+          "numeroTramite": "17-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "SERGIOMARTINEZMARTINEZ",
+          "numeroCedula": "98798",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T09:01:37.000Z"
+        },
+        {
+          "numeroTramite": "17-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "SERGIOMARTINEZMARTINEZ",
+          "numeroCedula": "98798",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T09:01:37.000Z"
+        },
+        {
+          "numeroTramite": "18-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "PONCIANOALCALAALCALA",
+          "numeroCedula": "96325",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T10:58:05.000Z"
+        },
+        {
+          "numeroTramite": "18-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "PONCIANOALCALAALCALA",
+          "numeroCedula": "96325",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T10:58:05.000Z"
+        },
+        {
+          "numeroTramite": "18-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "PONCIANOALCALAALCALA",
+          "numeroCedula": "96325",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T10:58:05.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "JOSEOKSEOKSE",
+          "numeroCedula": "96321",
+          "usuarioActual": "VICTORIA CABEZAS POLO",
+          "fechaSolicitud": "2018-12-13T02:04:59.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "DISTRIBUCION ALEATORIA",
+          "solicitante": "GGGGGHHHHH",
+          "numeroCedula": "3434",
+          "usuarioActual": "PONCIANO ALCALA CANAVIRI",
+          "fechaSolicitud": "2018-12-17T01:25:17.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "ES ALEATORIO",
+          "solicitante": "RRRRRGGGG",
+          "numeroCedula": "3434",
+          "usuarioActual": "PONCIANO ALCALA CANAVIRI",
+          "fechaSolicitud": "2018-12-15T07:38:59.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "ES ALEATORIO",
+          "solicitante": "RRRRRGGGG",
+          "numeroCedula": "3434",
+          "usuarioActual": "PONCIANO ALCALA CANAVIRI",
+          "fechaSolicitud": "2018-12-15T07:38:59.000Z"
+        },
+        {
+          "numeroTramite": "17-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "SERGIOMARTINEZMARTINEZ",
+          "numeroCedula": "98798",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T09:01:37.000Z"
+        },
+        {
+          "numeroTramite": "17-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "SERGIOMARTINEZMARTINEZ",
+          "numeroCedula": "98798",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T09:01:37.000Z"
+        },
+        {
+          "numeroTramite": "18-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "PONCIANOALCALAALCALA",
+          "numeroCedula": "96325",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T10:58:05.000Z"
+        },
+        {
+          "numeroTramite": "18-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "PONCIANOALCALAALCALA",
+          "numeroCedula": "96325",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T10:58:05.000Z"
+        },
+        {
+          "numeroTramite": "18-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "PONCIANOALCALAALCALA",
+          "numeroCedula": "96325",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T10:58:05.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "JOSEOKSEOKSE",
+          "numeroCedula": "96321",
+          "usuarioActual": "VICTORIA CABEZAS POLO",
+          "fechaSolicitud": "2018-12-13T02:04:59.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "DISTRIBUCION ALEATORIA",
+          "solicitante": "GGGGGHHHHH",
+          "numeroCedula": "3434",
+          "usuarioActual": "PONCIANO ALCALA CANAVIRI",
+          "fechaSolicitud": "2018-12-17T01:25:17.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "ES ALEATORIO",
+          "solicitante": "RRRRRGGGG",
+          "numeroCedula": "3434",
+          "usuarioActual": "PONCIANO ALCALA CANAVIRI",
+          "fechaSolicitud": "2018-12-15T07:38:59.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "ES ALEATORIO",
+          "solicitante": "RRRRRGGGG",
+          "numeroCedula": "3434",
+          "usuarioActual": "PONCIANO ALCALA CANAVIRI",
+          "fechaSolicitud": "2018-12-15T07:38:59.000Z"
+        },
+        {
+          "numeroTramite": "17-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "SERGIOMARTINEZMARTINEZ",
+          "numeroCedula": "98798",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T09:01:37.000Z"
+        },
+        {
+          "numeroTramite": "17-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "SERGIOMARTINEZMARTINEZ",
+          "numeroCedula": "98798",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T09:01:37.000Z"
+        },
+        {
+          "numeroTramite": "18-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "PONCIANOALCALAALCALA",
+          "numeroCedula": "96325",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T10:58:05.000Z"
+        },
+        {
+          "numeroTramite": "18-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "PONCIANOALCALAALCALA",
+          "numeroCedula": "96325",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T10:58:05.000Z"
+        },
+        {
+          "numeroTramite": "18-2018",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "PONCIANOALCALAALCALA",
+          "numeroCedula": "96325",
+          "usuarioActual": "BENJAMIN PEDRAZA AGREDA",
+          "fechaSolicitud": "2018-12-12T10:58:05.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "BLOQUEADO",
+          "solicitante": "JOSEOKSEOKSE",
+          "numeroCedula": "96321",
+          "usuarioActual": "VICTORIA CABEZAS POLO",
+          "fechaSolicitud": "2018-12-13T02:04:59.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "DISTRIBUCION ALEATORIA",
+          "solicitante": "GGGGGHHHHH",
+          "numeroCedula": "3434",
+          "usuarioActual": "PONCIANO ALCALA CANAVIRI",
+          "fechaSolicitud": "2018-12-17T01:25:17.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "ES ALEATORIO",
+          "solicitante": "RRRRRGGGG",
+          "numeroCedula": "3434",
+          "usuarioActual": "PONCIANO ALCALA CANAVIRI",
+          "fechaSolicitud": "2018-12-15T07:38:59.000Z"
+        },
+        {
+          "numeroTramite": "-",
+          "nombreTipoTramite": "REPOSICION DE TIP",
+          "flujo": "ES ALEATORIO",
+          "solicitante": "RRRRRGGGG",
+          "numeroCedula": "3434",
+          "usuarioActual": "PONCIANO ALCALA CANAVIRI",
+          "fechaSolicitud": "2018-12-15T07:38:59.000Z"
+        }
+      ]
     }
   ],
   "title": "REPORTE DE TRAMITES POR ESTADO",

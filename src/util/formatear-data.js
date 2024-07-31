@@ -43,7 +43,7 @@ const obtenerDataTramite = data => {
         solicitante: flujo.solicitante,
         numeroCedula: flujo.numeroCedula,
         usuarioActual: flujo.usuarioActual,
-        fechaSolicitud: flujo.fechaSolicitud,
+        fechaSolicitud: formatDate(flujo.fechaSolicitud),
         estado: estado.estado
       })
     })
@@ -59,6 +59,15 @@ const obtenerDataTramite = data => {
     })
   })
   return flujosFormateados
+}
+
+function formatDate(dateString) {
+  const date = new Date(dateString)
+  const day = ('0' + date.getDate()).slice(-2) // Añade un cero al inicio y toma los últimos dos dígitos
+  const month = ('0' + (date.getMonth() + 1)).slice(-2) // Los meses en JS son 0-indexados
+  const year = date.getFullYear()
+
+  return `${day}/${month}/${year}`
 }
 
 module.exports = { obtenerDataModificaciones, obtenerDataReasignaciones, obtenerDataTramite }

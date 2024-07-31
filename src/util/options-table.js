@@ -35,7 +35,7 @@ function optionsReasignaciones(doc) {
 function optionsTramites(doc) {
   return {
     // properties
-    padding: 2,
+    padding: 0,
     columnSpacing: 2,
     hideHeader: false,
     minRowHeight: 0,
